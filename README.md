@@ -18,7 +18,7 @@ Welcome to my portfolio! My name is Rohan, and I'm currently pursuing a degree i
 
 ## How to Reach Me
 - **Email:** rohansinghazad19@example.com
-- **LinkedIn:** [linkedin.com/Rohan](www.linkedin.com/in/rohan-singh-azad-359672284)
+- **LinkedIn:** [linkedin.com/Rohan](https://www.linkedin.com/in/rohan-singh-azad-359672284)
 - **GitHub:** [github.com/EWRohan](https://github.com/EWRohan)
 
 I am always open to new opportunities, collaborations, and learning experiences. Don't hesitate to reach out if you have any questions or just want to connect!
